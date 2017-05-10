@@ -13,15 +13,29 @@ Simple app to add and manage any kind of items.
 
 ### Run app
 
- `$ npm install`
+`$ npm install`
 
- `$ bower intsall`
+`$ bower intsall`
  
- `$ grunt serve`
+`$ grunt serve`
 
 ### Build app
 
- `$ grunt serve`
+`$ grunt build`
+
+### Code quality
+
+`$ grunt jshint`
+
+## How to
+
+### How to add items
+
+Modify the `app/assets/data/items.json` file.
+
+### How to add random
+
+Modify the `app/assets/data/randoms.json` file.
 
 ## Built with
 
