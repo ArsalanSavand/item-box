@@ -1,0 +1,76 @@
+/* Spaces */
+
+.s-pad-no {
+    padding: 0;
+}
+
+.s-mar-no {
+    margin: 0;
+}
+
+.s-mar-top {
+    margin-top: 50px;
+}
+
+.s-mar-top-hard {
+    margin-top: 100px;
+}
+
+
+/* Backgrounds */
+
+.bg-no {
+    background: none;
+}
+
+.bg-dark {
+    background: rgba(30, 30, 30, 0.5);
+}
+
+
+/* Texts */
+
+.t-larger {
+    font-size: larger;
+}
+
+.t-bold {
+    font-weight: bold;
+}
+
+
+/* Colors */
+
+.col {
+    color: #eee;
+}
+
+.col-dark {
+    color: #333;
+}
+
+
+/* Opacities */
+
+.o-fade {
+    opacity: 0.5;
+}
+
+.o-fade-soft {
+    opacity: 0.75;
+}
+
+.o-fade-hard {
+    opacity: 0.25;
+}
+
+.o-fade-hover:hover {
+    opacity: 1;
+}
+
+
+/* Cursors */
+
+.cur-no {
+    pointer-events: none;
+}

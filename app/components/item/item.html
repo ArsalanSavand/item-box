@@ -1,0 +1,8 @@
+<div class="container">
+  <div class="row text-center s-mar-top">
+    <div class="col-lg-3 col-md-4 col-sm-6 animated flipInY"
+      ng-repeat="item in items | orderBy: '-level'">
+      <ng-include src="'components/item/item_include.html'"></ng-include>
+    </div>
+  </div>
+</div>

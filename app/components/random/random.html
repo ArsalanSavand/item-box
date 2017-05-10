@@ -1,0 +1,11 @@
+<div class="container">
+  <div class="row text-center s-mar-top">
+    <div class="col-lg-3 col-md-4 col-sm-6" ng-repeat="random in randoms">
+      <div class="random animated bounceInDown">
+        <ng-include src="'components/item/item_include.html'"
+          ng-init="item = random.item" ng-click="random.show(); item = random.item">
+        </ng-include>
+      </div>
+    </div>
+  </div>
+</div>

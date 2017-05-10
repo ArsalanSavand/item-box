@@ -1,0 +1,53 @@
+[{
+  "name": "Iron",
+  "image": "http://www.minecraftopia.com/images/blocks/iron.png",
+  "amount": 10,
+  "level": 3
+}, {
+  "name": "Gold",
+  "image": "http://www.minecraftopia.com/images/blocks/gold.png",
+  "amount": 5,
+  "level": 3
+}, {
+  "name": "Diamond",
+  "image": "http://www.minecraftopia.com/images/blocks/diamond.png",
+  "amount": 3,
+  "level": 3
+}, {
+  "name": "Sword",
+  "image": "http://www.minecraftopia.com/images/blocks/sword.png",
+  "amount": 1,
+  "level": 2
+}, {
+  "name": "Full Armour",
+  "image": "http://www.minecraftopia.com/images/blocks/iron_chestplate.png",
+  "amount": 1,
+  "level": 3,
+  "detail": "Full set of Iron Armour"
+}, {
+  "name": "Coals",
+  "image": "http://www.minecraftopia.com/images/blocks/coal.png",
+  "amount": 32
+}, {
+  "name": "Redstone Dust",
+  "image": "http://www.minecraftopia.com/images/blocks/redstone_dust.png",
+  "amount": 16
+}, {
+  "name": "Arrows",
+  "image": "http://www.minecraftopia.com/images/blocks/arrow.png",
+  "amount": 16
+}, {
+  "name": "Enchanting",
+  "image": "http://www.minecraftopia.com/images/blocks/bottle_of_enchanting.png",
+  "amount": 5
+}, {
+  "name": "Snow Golem",
+  "image": "http://www.minecraftopia.com/images/blocks/snow_golem.png",
+  "amount": 1,
+  "level": 3
+}, {
+  "name": "Horse",
+  "image": "http://www.minecraftopia.com/images/blocks/horse.png",
+  "amount": 1,
+  "level": 3
+}]
