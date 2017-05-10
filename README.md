@@ -9,6 +9,16 @@ Simple app to add and manage any kind of items.
 * Fully responsive.
 * Naviage with `Backspace` and refresh with `R`.
 
+## Screenshots
+
+### Item list page
+
+![Items](https://raw.githubusercontent.com/AmirSavand/item-box/master/app/assets/screens/items.png)
+
+### Random item list page
+
+![Random](https://raw.githubusercontent.com/AmirSavand/item-box/master/app/assets/screens/randoms.png)
+
 ## Commands
 
 ### Run app
